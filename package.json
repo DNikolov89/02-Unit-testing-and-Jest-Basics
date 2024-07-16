@@ -1,0 +1,19 @@
+{
+  "name": "02-unit-testing-and-jest-basics",
+  "version": "1.0.0",
+  "description": "Test repo linked to 02. Unit Testing and Jest Basics presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DNikolov89/02-Unit-testing-and-Jest-Basics.git"
+  },
+  "author": "Dimitar Nikolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DNikolov89/02-Unit-testing-and-Jest-Basics/issues"
+  },
+  "homepage": "https://github.com/DNikolov89/02-Unit-testing-and-Jest-Basics#readme"
+}
